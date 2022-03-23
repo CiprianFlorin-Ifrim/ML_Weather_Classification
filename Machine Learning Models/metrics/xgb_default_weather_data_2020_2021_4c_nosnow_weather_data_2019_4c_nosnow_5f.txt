@@ -1,0 +1,12 @@
+Accuracy: 0.7095890410958904
+
+F1 Score Weighted: 0.6718909187547562
+
+F1 Score per Class: [0.         0.85177453 0.53658537 0.        ]
+
+Precision per Class: [0.         0.83606557 0.45454545 0.        ]
+
+Recall per Class: [0.         0.86808511 0.6547619  0.        ]
+
+Support:  [ 32 235  84  14]
+
